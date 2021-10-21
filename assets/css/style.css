@@ -265,6 +265,14 @@ header {
 
 /* REACH OUT STYLE ENDS */
 
+.hero-secondary {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
 
 
 
